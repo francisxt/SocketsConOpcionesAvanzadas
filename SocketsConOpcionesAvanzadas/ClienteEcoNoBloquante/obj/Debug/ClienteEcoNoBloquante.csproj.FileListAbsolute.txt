@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\bin\Debug\ClienteEcoNoBloquante.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\bin\Debug\ClienteEcoNoBloquante.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\bin\Debug\ClienteEcoNoBloquante.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\obj\Debug\ClienteEcoNoBloquante.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\obj\Debug\ClienteEcoNoBloquante.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\SocketsConOpcionesAvanzadas\ClienteEcoNoBloquante\obj\Debug\ClienteEcoNoBloquante.pdb

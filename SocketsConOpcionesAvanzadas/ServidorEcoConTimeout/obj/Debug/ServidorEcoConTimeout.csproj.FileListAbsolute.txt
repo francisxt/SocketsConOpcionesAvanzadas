@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\SocketsConOpcionesAvanzadas\ServidorEcoConTimeout\bin\Debug\ServidorEcoConTimeout.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\SocketsConOpcionesAvanzadas\ServidorEcoConTimeout\bin\Debug\ServidorEcoConTimeout.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\SocketsConOpcionesAvanzadas\ServidorEcoConTimeout\bin\Debug\ServidorEcoConTimeout.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\SocketsConOpcionesAvanzadas\ServidorEcoConTimeout\obj\Debug\ServidorEcoConTimeout.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\SocketsConOpcionesAvanzadas\ServidorEcoConTimeout\obj\Debug\ServidorEcoConTimeout.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\SocketsConOpcionesAvanzadas\ServidorEcoConTimeout\obj\Debug\ServidorEcoConTimeout.pdb
